@@ -1,6 +1,8 @@
-ReadMe:
+APK Decompiler Batch
 
-7zip is required. Please download it from http://www.7-zip.org/ and finish the installation.
+A simple batch wrapper of apktools, dex2jar and JDGUI to make decompiler simpler.
+
+*7zip is required. Please download it from http://www.7-zip.org/ and finish the installation.
 
 Download the whole reposity to your PC and unzip it. Open decompile.bat and replace set 7zipPath="C:\Program Files (x86)\7-Zip\7z.exe" with your own 7zip path.
 Then you can run the decompile.bat, input the values and get the decompiled results.
